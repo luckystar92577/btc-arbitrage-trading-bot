@@ -49,7 +49,7 @@ This results in a spread of 600€ for the price of 1 BTC in EUR between Gdax an
 
 ### Strategy 2 (used by this trading bot)  
 **Preparation:**    
-- Store 5000€ on Gdax account
+- Store 5000€ on Gdax account 
 - Store 1 BTC on Bitfinex account
 
 **Spread exploitation:**    
